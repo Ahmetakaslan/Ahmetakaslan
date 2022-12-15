@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I'm studying software engineering at Firat University
 - 🌱 I’m currently learning Flutter
-   Linedin : https://www.linkedin.com/in/ahmet-akaslan-029127248
+-     Linedin : https://www.linkedin.com/in/ahmet-akaslan-029127248
 <!--
 **Ahmetakaslan/Ahmetakaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
