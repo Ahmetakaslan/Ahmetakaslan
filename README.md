@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ahmet Akaslan</h1>
 <h3 align="center">Currently I am Mobile developer from Turkey</h3>
-![giphy](https://user-images.githubusercontent.com/95686166/231289165-7198755c-76bf-4168-ac0c-04d675b222eb.gif)
+
+![giphy](https://user-images.githubusercontent.com/95686166/231289260-ca5cef6c-bee5-4105-a102-755a76c67761.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetakaslan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetakaslan" /> </p>
