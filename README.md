@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ahmet Akaslan</h1>
 <h3 align="center">Currently I am Mobile developer from Turkey</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/95686166/231289165-7198755c-76bf-4168-ac0c-04d675b222eb.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetakaslan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetakaslan" /> </p>
 
